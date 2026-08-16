@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
