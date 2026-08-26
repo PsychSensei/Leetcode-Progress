@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0162-find-peak-element) |
@@ -54,10 +55,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PsychSensei/Leetcode-Progress/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
